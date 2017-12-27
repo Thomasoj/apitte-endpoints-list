@@ -1,0 +1,19 @@
+{
+    "name": "thomasoj/apitte-endpoints-list",
+    "description": "Add console command for show endpoints list.",
+    "authors": [
+        {
+            "name": "Tomas Travnicek",
+            "email": "ttravnicek@email.cz"
+        }
+    ],
+    "keywords": ["nette", "apitte", "router", "endpoint", "console", "command"],
+    "version": "0.1",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Thomasoj\\ApitteEndpointsList\\": "src/"
+        }
+    }
+}
