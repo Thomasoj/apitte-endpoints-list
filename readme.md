@@ -12,7 +12,7 @@ Just simple command for [kdyby/console](https://github.com/Kdyby/Console/) and [
 	```
 	services:
 		ApitteEndpointsListCommand:
-			class: Thomasoj\Command\ApitteEndpointsListCommand
+			class: 	- Thomasoj\ApitteEndpointsList\Command\ApitteEndpointsListCommand
 			tags: [kdyby.console.command]
 	```
 3. Run command

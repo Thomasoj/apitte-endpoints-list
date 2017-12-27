@@ -12,8 +12,6 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "psr-4": {
-            "Thomasoj\\ApitteEndpointsList\\": "src/"
-        }
-    }
+        "classmap": ["src/"]
+    },
 }
