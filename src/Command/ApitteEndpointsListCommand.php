@@ -1,6 +1,6 @@
 <?php
 
-namespace Thomasoj\Command;
+namespace Thomasoj\ApitteEndpointsList\Command;
 
 use Apitte\Core\Schema\Schema;
 use Symfony\Component\Console\Command\Command;
